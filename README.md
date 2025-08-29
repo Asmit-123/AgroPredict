@@ -1,4 +1,4 @@
-🌾 AgroPredict
+🌾 AgroPredict <br>
 AgroPredict is a smart, web-based solution aimed at helping farmers and agricultural planners make informed decisions through predictive analytics and a clean user interface. This app likely includes components for predicting crop performance, monitoring agricultural inputs, and providing tailored suggestions using machine learning and modern UI technologies like Tailwind CSS.</br>
 AgroPredict-main/</br>
 │
